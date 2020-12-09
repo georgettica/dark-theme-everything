@@ -3,13 +3,9 @@
 This repo should hold how to make dark theme on all tools and services
 
 == Websites
-
 === GitHub
-
 A beta release for it has come to be, see it here https://github.com/settings/appearance
 
 == Applications
-
 === PLACEHOLDER
-
 The way to make PLACEHOLDER dark themeable should be here
