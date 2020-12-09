@@ -1,6 +1,6 @@
 = dark-theme-everything
 This repo should hold how to make dark theme on all tools and services
 
-= Websites
-== Github
+== Websites
+=== Github
 a beta release for it has come to be, see it here https://github.com/settings/appearance
