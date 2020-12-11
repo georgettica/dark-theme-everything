@@ -9,5 +9,5 @@ This repo should hold how to make dark theme on all tools and services
 A beta release for it has come to be, see it here https://github.com/settings/appearance
 
 == Applications
-=== PLACEHOLDER
-The way to make PLACEHOLDER dark themeable should be here
+=== Slack
+Making slack dark-themed is explained here https://slack.com/intl/en-il/help/articles/360019434914-Use-dark-mode-in-Slack
