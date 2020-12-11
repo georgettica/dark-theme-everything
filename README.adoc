@@ -3,11 +3,19 @@
 
 This repo should hold how to make dark theme on all tools and services
 
+== Contribution Guidelines
+Please check that inside the topic, all of the titles are sorted to avoid 
+
+== Applications
+=== Gmail Mobile
+Creating a dark-themed experience on mobile gmail client is explained here https://support.google.com/mail/answer/9460619
+
+=== Slack
+Making slack dark-themed is explained here https://slack.com/intl/en-il/help/articles/360019434914-Use-dark-mode-in-Slack
 
 == Websites
 === GitHub
 A beta release for it has come to be, see it here https://github.com/settings/appearance
 
-== Applications
-=== Slack
-Making slack dark-themed is explained here https://slack.com/intl/en-il/help/articles/360019434914-Use-dark-mode-in-Slack
+=== Gmail
+Manifesting you dark-mode (that's how it's called there) desires in gmail is explained here https://support.google.com/mail/answer/112508?hl=en&ref_topic=7280210
