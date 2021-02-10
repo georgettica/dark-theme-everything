@@ -14,6 +14,9 @@ Creating a dark-themed experience on mobile gmail client is explained here https
 Making slack dark-themed is explained here https://slack.com/intl/en-il/help/articles/360019434914-Use-dark-mode-in-Slack
 
 == Websites
+=== Google Search
+A shiny star in a dark search broweser can be toggled in https://www.google.com/preferences
+
 === GitHub
 A beta release for it has come to be, see it here https://github.com/settings/appearance
 
