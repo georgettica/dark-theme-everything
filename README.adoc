@@ -15,7 +15,7 @@ Making slack dark-themed is explained here https://slack.com/intl/en-il/help/art
 
 == Websites
 === Google Search
-A shiny star in a dark search broweser can be toggled in https://www.google.com/preferences
+A shiny star in a dark search browser can be toggled in https://www.google.com/preferences
 
 === GitHub
 A beta release for it has come to be, see it here https://github.com/settings/appearance
@@ -25,3 +25,6 @@ Manifesting you dark-mode (that's how it's called there) desires in gmail is exp
 
 === StackOverflow
 Incarnating your grayscale version of StackOverflow, read this https://meta.stackoverflow.com/questions/395949/dark-mode-beta-help-us-root-out-low-contrast-and-un-converted-bits
+
+=== SourceGraph
+To invoke the inner shdowiness of SourceGraph, see this https://about.sourcegraph.com/blog/introducing-sourcegraph-server-2-3/
