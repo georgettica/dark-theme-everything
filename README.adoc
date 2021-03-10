@@ -28,3 +28,6 @@ Incarnating your grayscale version of StackOverflow, read this https://meta.stac
 
 === SourceGraph
 To invoke the inner shdowiness of SourceGraph, see this https://about.sourcegraph.com/blog/introducing-sourcegraph-server-2-3/
+
+=== GitLab
+A beta release has emerged from the light into the darkness, see https://docs.gitlab.com/ee/user/profile/preferences.html
