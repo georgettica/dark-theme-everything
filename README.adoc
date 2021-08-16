@@ -16,6 +16,9 @@ Making slack dark-themed is explained here https://slack.com/intl/en-il/help/art
 === rstudio
 Go to the dark corners of R language using this https://blog.rstudio.com/2017/08/30/rstudio-dark-theme/
 
+=== Telegram
+Communicate in the shadows of telegram using https://telegram.org/blog/android-streaming
+
 == Websites
 === Google Search
 A shiny star in a dark search browser can be toggled in https://www.google.com/preferences
