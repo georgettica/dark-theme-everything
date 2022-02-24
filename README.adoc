@@ -37,3 +37,6 @@ To invoke the inner shdowiness of SourceGraph, see this https://about.sourcegrap
 
 === GitLab
 A beta release has emerged from the light into the darkness, see https://docs.gitlab.com/ee/user/profile/preferences.html
+
+=== LinkedIn
+Exposing your inner darkness for this website, see https://www.linkedin.com/help/linkedin/answer/a524473/switch-between-dark-and-light-mode
