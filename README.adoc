@@ -29,6 +29,9 @@ A beta release for it has come to be, see it here https://github.com/settings/ap
 === Gmail
 Manifesting you dark-mode (that's how it's called there) desires in gmail is explained here https://support.google.com/mail/answer/112508?hl=en&ref_topic=7280210
 
+=== Google Chat
+for making your conversations more secure, put a dark theme on it! https://workspaceupdates.googleblog.com/2021/08/dark-mode-for-google-chat-on-web.html
+
 === StackOverflow
 Incarnating your grayscale version of StackOverflow, read this https://meta.stackoverflow.com/questions/395949/dark-mode-beta-help-us-root-out-low-contrast-and-un-converted-bits
 
