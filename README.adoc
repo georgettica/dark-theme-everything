@@ -14,7 +14,7 @@ Creating a dark-themed experience on mobile gmail client is explained here https
 Making slack dark-themed is explained here https://slack.com/intl/en-il/help/articles/360019434914-Use-dark-mode-in-Slack
 
 === rstudio
-Go to the dark corners of R language using this https://blog.rstudio.com/2017/08/30/rstudio-dark-theme/
+Go to the dark corners of R language using this https://www.rstudio.com/blog/rstudio-dark-theme/
 
 === Telegram
 Communicate in the shadows of telegram using https://telegram.org/blog/android-streaming

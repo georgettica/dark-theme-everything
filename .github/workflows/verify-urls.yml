@@ -1,0 +1,31 @@
+name: Verify URL's
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+  - cron: "0 2 * * *"
+
+jobs:
+  broken_link_checker_job:
+    runs-on: ubuntu-latest
+    name: Check for broken links
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+    - name: Setup golang
+      uses: actions/setup-go@v3
+     #uses: actions/setup-go@v2.2.0
+      with:
+        go-version: x
+    - name: Install vl
+      run: go install github.com/npxbr/verify-links/cmd/vl@latest
+    # TODO: add caching for this install 
+    - name: Check URLs
+      run: |
+       files_to_check=$( find . -name \*adoc)
+       for file in ${files_to_check}; do
+        vl "${file}"
+       done
