@@ -24,6 +24,8 @@ jobs:
     - name: Install vl
       run: |
         go install github.com/npxbr/verify-links/cmd/vl@latest
+        export
+        env
         which vl
       
     # TODO: add caching for this install 
