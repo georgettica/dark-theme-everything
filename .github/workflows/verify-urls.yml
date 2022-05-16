@@ -24,17 +24,12 @@ jobs:
         go install github.com/npxbr/verify-links/cmd/vl@latest
         # add to path. (setup-go doesn't do that)
         echo ${HOME}/go/bin >> $GITHUB_PATH
-    - name: Install find
-      run: |
-        sudo apt-get update
-        sudo apt-get install findutils
-        echo /usr/bin/ >> $GITHUB_PATH
     # TODO: add caching for this install 
     - name: Check URLs
       env:
        PATH: ${PATH}:/home/runner/go/bin
       run: |
-       files_to_check=$( find . -name \*adoc)
+       files_to_check=$( /usr/bin/find . -name \*adoc)
        for file in ${files_to_check}; do
         vl "${file}"
        done
