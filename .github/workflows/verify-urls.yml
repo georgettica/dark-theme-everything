@@ -23,8 +23,8 @@ jobs:
     - name: Install vl
       run: |
         go install github.com/npxbr/verify-links/cmd/vl@latest
-        pwd
-        ls ${HOME}/go/bin
+        # add to path. (setup-go doesn't do that)
+        echo ${HOME}/go/bin >> $GITHUB_PATH
 
     # TODO: add caching for this install 
     - name: Check URLs
