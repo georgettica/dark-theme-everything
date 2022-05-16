@@ -25,7 +25,8 @@ jobs:
         go install github.com/npxbr/verify-links/cmd/vl@latest
         # add to path. (setup-go doesn't do that)
         echo ${HOME}/go/bin >> $GITHUB_PATH
-
+    - name: Install find
+      run: sudo apt get install find
     # TODO: add caching for this install 
     - name: Check URLs
       env:
