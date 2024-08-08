@@ -19,6 +19,9 @@ Go to the dark corners of R language using this https://www.rstudio.com/blog/rst
 === Telegram
 Communicate in the shadows of telegram using https://telegram.org/blog/android-streaming
 
+=== Jupyter Notebook
+Experiment in the dim realms of Jupyter Notebook with this guide https://blog.jupyter.org/announcing-jupyter-notebook-7-8d6d66126dcf
+
 == Websites
 === Google Search
 A shiny star in a dark search browser can be toggled in https://www.google.com/preferences
