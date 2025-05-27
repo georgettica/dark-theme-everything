@@ -1,17 +1,17 @@
 = dark-theme-everything
 :toc:
 
-This repo should hold how to make dark theme on all tools and services
+This repo should hold how to make a dark theme on all tools and services
 
 == Contribution Guidelines
 Please check that inside the topic, all of the titles are sorted to avoid 
 
 == Applications
 === Gmail Mobile
-Creating a dark-themed experience on mobile gmail client is explained here https://support.google.com/mail/answer/9460619
+Creating a dark-themed experience on the mobile Gmail client is explained here https://support.google.com/mail/answer/9460619
 
 === Slack
-Making slack dark-themed is explained here https://slack.com/intl/en-il/help/articles/360019434914-Use-dark-mode-in-Slack
+Making Slack dark-themed is explained here https://slack.com/intl/en-il/help/articles/360019434914-Use-dark-mode-in-Slack
 
 === rstudio
 Go to the dark corners of R language using this https://www.rstudio.com/blog/rstudio-dark-theme/
@@ -27,19 +27,19 @@ Experiment in the dim realms of Jupyter Notebook with this guide https://jupyter
 A shiny star in a dark search browser can be toggled in https://www.google.com/preferences
 
 === GitHub
-A beta release for it has come to be, see it here https://github.com/settings/appearance
+A beta release for it has come to be; see it here https://github.com/settings/appearance
 
 === Gmail
-Manifesting you dark-mode (that's how it's called there) desires in gmail is explained here https://support.google.com/mail/answer/112508?hl=en&ref_topic=7280210
+Manifesting your dark-mode (that's how it's called there) desires in Gmail is explained here https://support.google.com/mail/answer/112508?hl=en&ref_topic=7280210
 
 === Google Chat
-for making your conversations more secure, put a dark theme on it! https://workspaceupdates.googleblog.com/2021/08/dark-mode-for-google-chat-on-web.html
+To make your conversations more secure, put a dark theme on it! https://workspaceupdates.googleblog.com/2021/08/dark-mode-for-google-chat-on-web.html
 
 === StackOverflow
 Incarnating your grayscale version of StackOverflow, read this https://meta.stackoverflow.com/questions/395949/dark-mode-beta-help-us-root-out-low-contrast-and-un-converted-bits
 
 === SourceGraph
-To invoke the inner shdowiness of SourceGraph, see this https://about.sourcegraph.com/blog/introducing-sourcegraph-server-2-3/
+To invoke the inner shadowiness of SourceGraph, see this https://about.sourcegraph.com/blog/introducing-sourcegraph-server-2-3/
 
 === GitLab
 A beta release has emerged from the light into the darkness, see https://docs.gitlab.com/ee/user/profile/preferences.html
@@ -48,4 +48,7 @@ A beta release has emerged from the light into the darkness, see https://docs.gi
 Exposing your inner darkness for this website, see https://www.linkedin.com/help/linkedin/answer/a524473/switch-between-dark-and-light-mode
 
 == Facebook
-Spiraling into the grayness for this website (also for mobile) , see https://www.facebook.com/help/282686829455697
+Spiraling into the grayness for this website (also for mobile), see https://www.facebook.com/help/282686829455697
+
+== GCP
+Navigate the shadows of GCP using: https://www.googlecloudcommunity.com/gc/Community-Hub/Dark-mode-for-GCP-Like-AWS/m-p/896951/highlight/true#M11219
