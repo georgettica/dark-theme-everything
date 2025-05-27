@@ -14,22 +14,9 @@ jobs:
     name: Check for broken links
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3
-    - name: Setup golang
-      uses: actions/setup-go@v3
+      uses: actions/checkout@v4
+    - name: Link Checker
+      id: lychee
+      uses: lycheeverse/lychee-action@v2
       with:
-        check-latest: true
-    - name: Install vl
-      run: |
-        go install github.com/npxbr/verify-links/cmd/vl@latest
-        # add to path. (setup-go doesn't do that)
-        echo ${HOME}/go/bin >> $GITHUB_PATH
-    # TODO: add caching for this install 
-    - name: Check URLs
-      env:
-       PATH: ${PATH}:/home/runner/go/bin
-      run: |
-       files_to_check=$( /usr/bin/find . -name \*adoc)
-       for file in ${files_to_check}; do
-        vl "${file}"
-       done
+        args: --insecure
