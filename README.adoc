@@ -22,9 +22,9 @@ Communicate in the shadows of telegram using https://telegram.org/blog/android-s
 === Jupyter Notebook
 Experiment in the dim realms of Jupyter Notebook with this guide https://jupyter-notebook.readthedocs.io/en/latest/notebook_7_features.html#theming-and-dark-mode
 
-
 === Microsoft Excel
 Dig deep into microsoft's excellence in darkness with this guide https://support.microsoft.com/en-us/office/dark-mode-in-excel-c0014bf6-c20e-41eb-8363-75b9c5759d7f
+
 == Websites
 === Google Search
 A shiny star in a dark search browser can be toggled in https://www.google.com/preferences
