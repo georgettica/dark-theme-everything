@@ -54,7 +54,7 @@ Exposing your inner darkness for this website, see https://www.linkedin.com/help
 Spiraling into the grayness for this website (also for mobile), see https://www.facebook.com/help/282686829455697
 
 === GCP
-Navigate the shadows of GCP using: https://www.googlecloudcommunity.com/gc/Community-Hub/Dark-mode-for-GCP-Like-AWS/m-p/896951/highlight/true#M11219
+Navigate the shadows of GCP using: https://docs.cloud.google.com/docs/get-started/console-appearance
 
 === Wikipedia
 Explore Wikipedia in a darker hue: https://en.wikipedia.org/wiki/Wikipedia:Dark_mode
